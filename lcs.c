@@ -6,7 +6,7 @@
 // i ,j is initially 0
 int max(int a,int b)
 {
-    a>b ? a : b;
+    return a>b ? a : b;
 }
 
 char A [3] = "bd0"; 
